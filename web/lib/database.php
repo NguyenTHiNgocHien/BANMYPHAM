@@ -5,10 +5,10 @@ include($filepath . '/../config/config.php'); ?>
 <?php
 class Database extends PDO
 {
-  public $host   = DB_HOST;
-  public $user   = DB_USER;
-  public $pass   = DB_PASS;
-  public $dbname = DB_NAME;
+  public $host   = hai.mysql.database.azure.com;
+  public $user   = hai;
+  public $pass   = 12345hari@;
+  public $dbname = hai;
 
 
   public $link;
