@@ -1,7 +1,7 @@
 <?php
 
-define("DB_HOST", 'localhost');
-define("DB_USER", 'root');
-define("DB_PASS", '');
-define("DB_NAME", 'instrumentstore');
+define("DB_HOST", 'hai.mysql.database.azure.com');
+define("DB_USER", 'hai');
+define("DB_PASS", '12345hari@');
+define("DB_NAME", 'hai');
 ?>
